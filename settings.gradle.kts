@@ -28,7 +28,7 @@ include(
     ":modules:mockk-agent",
     ":modules:mockk-core",
     ":modules:mockk-dsl",
-//    ":modules:springmockk",
+    ":modules:springmockk",
 
     ":test-modules:client-tests",
     ":test-modules:performance-tests",
